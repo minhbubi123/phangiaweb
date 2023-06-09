@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/phangiaweb/static/css/main.b2d76dc2.css",
-    "main.js": "/phangiaweb/static/js/main.9129b774.js",
-    "static/js/787.32032a02.chunk.js": "/phangiaweb/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/phangiaweb/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/phangiaweb/index.html",
-    "main.b2d76dc2.css.map": "/phangiaweb/static/css/main.b2d76dc2.css.map",
-    "main.9129b774.js.map": "/phangiaweb/static/js/main.9129b774.js.map",
-    "787.32032a02.chunk.js.map": "/phangiaweb/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/minhbubi123/phangiaweb/static/css/main.241c6120.css",
+    "main.js": "/minhbubi123/phangiaweb/static/js/main.2e17f645.js",
+    "static/js/787.32032a02.chunk.js": "/minhbubi123/phangiaweb/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/minhbubi123/phangiaweb/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/minhbubi123/phangiaweb/index.html",
+    "main.241c6120.css.map": "/minhbubi123/phangiaweb/static/css/main.241c6120.css.map",
+    "main.2e17f645.js.map": "/minhbubi123/phangiaweb/static/js/main.2e17f645.js.map",
+    "787.32032a02.chunk.js.map": "/minhbubi123/phangiaweb/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d76dc2.css",
-    "static/js/main.9129b774.js"
+    "static/css/main.241c6120.css",
+    "static/js/main.2e17f645.js"
   ]
 }
